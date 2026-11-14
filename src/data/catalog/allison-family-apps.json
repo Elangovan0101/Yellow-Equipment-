@@ -1,0 +1,282 @@
+{
+  "1000-2000-series": [
+    {
+      "key": "agriculture",
+      "title": "Agriculture",
+      "text": "Allison fully automatic transmissions increase agriculture sprayer and spreader performance to improve productivity in the field and reduce maintenance costs.",
+      "image": "/media/catalog/products/CAIMANSP2020-1.webp"
+    },
+    {
+      "key": "construction",
+      "title": "Construction",
+      "text": "Allison fully automatic transmissions are built to improve productivity on the construction site so you can get the job done more efficiently.",
+      "image": "/media/catalog/products/Cement-Mixer-Construction-Truck.webp"
+    },
+    {
+      "key": "defense",
+      "title": "Defence",
+      "text": "Allison has a proven history of designing propulsion solutions for tracked and wheeled defense vehicles that are built to withstand tough conditions.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "key": "fire",
+      "title": "Fire + Emergency",
+      "text": "Allison fully automatic transmissions provide superior acceleration and vehicle maneuverability, improving firetruck and ambulance response times.",
+      "image": "/media/catalog/products/Fire-Truck-Ambulance.webp"
+    },
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "delivery",
+      "title": "Pickup + Delivery",
+      "text": "Allison propulsion solutions provide an ideal combination of performance and fuel economy for your fleet’s pickup and delivery routes.",
+      "image": "/media/catalog/products/Florida-Distribution-Truck-Photo.webp"
+    },
+    {
+      "key": "port",
+      "title": "Port Services",
+      "text": "Allison automatic transmissions increase the productivity of sea and airport service vehicles, helping to efficiently transport people, luggage and containers.",
+      "image": "/media/catalog/products/Port-thumbnail.webp"
+    },
+    {
+      "key": "refuse",
+      "title": "Refuse + Utilities",
+      "text": "Allison transmissions are designed to make refuse and utility vehicles more productive while reducing emissions and noise levels in local communities.",
+      "image": "/media/catalog/products/Black-Refuse-Truck.webp"
+    },
+    {
+      "key": "rv",
+      "title": "RV + Motorhome",
+      "text": "Allison transmissions deliver an easy and smooth driving experience so drivers can relax and enjoy the journey of traveling in a premium RV or motorhome.",
+      "image": "/media/catalog/products/RV-thumbnail.webp"
+    },
+    {
+      "key": "school",
+      "title": "School Buses",
+      "text": "Allison fully automatic transmissions for school buses improve vehicle maneuverability and fuel economy to get students to their destination more efficiently.",
+      "image": "/media/catalog/products/BE_1-jpeg.webp"
+    },
+    {
+      "key": "transit",
+      "title": "Transit + Coach Buses",
+      "text": "Allison’s fully automatic transmissions and electric hybrid propulsion systems improve productivity and fuel economy of transit, coach and school buses.",
+      "image": "/media/catalog/products/IndyGo-Bus-eGen-Flex-Parked.webp"
+    }
+  ],
+  "3000-series": [
+    {
+      "key": "agriculture",
+      "title": "Agriculture",
+      "text": "Allison fully automatic transmissions increase agriculture sprayer and spreader performance to improve productivity in the field and reduce maintenance costs.",
+      "image": "/media/catalog/products/CAIMANSP2020-1.webp"
+    },
+    {
+      "key": "construction",
+      "title": "Construction",
+      "text": "Allison fully automatic transmissions are built to improve productivity on the construction site so you can get the job done more efficiently.",
+      "image": "/media/catalog/products/Cement-Mixer-Construction-Truck.webp"
+    },
+    {
+      "key": "defense",
+      "title": "Defence",
+      "text": "Allison has a proven history of designing propulsion solutions for tracked and wheeled defense vehicles that are built to withstand tough conditions.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "key": "fire",
+      "title": "Fire + Emergency",
+      "text": "Allison fully automatic transmissions provide superior acceleration and vehicle maneuverability, improving firetruck and ambulance response times.",
+      "image": "/media/catalog/products/Fire-Truck-Ambulance.webp"
+    },
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "delivery",
+      "title": "Pickup + Delivery",
+      "text": "Allison propulsion solutions provide an ideal combination of performance and fuel economy for your fleet’s pickup and delivery routes.",
+      "image": "/media/catalog/products/Florida-Distribution-Truck-Photo.webp"
+    },
+    {
+      "key": "port",
+      "title": "Port Services",
+      "text": "Allison automatic transmissions increase the productivity of sea and airport service vehicles, helping to efficiently transport people, luggage and containers.",
+      "image": "/media/catalog/products/Port-thumbnail.webp"
+    },
+    {
+      "key": "refuse",
+      "title": "Refuse + Utilities",
+      "text": "Allison transmissions are designed to make refuse and utility vehicles more productive while reducing emissions and noise levels in local communities.",
+      "image": "/media/catalog/products/Black-Refuse-Truck.webp"
+    },
+    {
+      "key": "rv",
+      "title": "RV + Motorhome",
+      "text": "Allison transmissions deliver an easy and smooth driving experience so drivers can relax and enjoy the journey of traveling in a premium RV or motorhome.",
+      "image": "/media/catalog/products/RV-thumbnail.webp"
+    },
+    {
+      "key": "school",
+      "title": "School Buses",
+      "text": "Allison fully automatic transmissions for school buses improve vehicle maneuverability and fuel economy to get students to their destination more efficiently.",
+      "image": "/media/catalog/products/BE_1-jpeg.webp"
+    },
+    {
+      "key": "transit",
+      "title": "Transit + Coach Buses",
+      "text": "Allison’s fully automatic transmissions and electric hybrid propulsion systems improve productivity and fuel economy of transit, coach and school buses.",
+      "image": "/media/catalog/products/IndyGo-Bus-eGen-Flex-Parked.webp"
+    }
+  ],
+  "4000-series": [
+    {
+      "key": "construction",
+      "title": "Construction",
+      "text": "Allison fully automatic transmissions are built to improve productivity on the construction site so you can get the job done more efficiently.",
+      "image": "/media/catalog/products/Cement-Mixer-Construction-Truck.webp"
+    },
+    {
+      "key": "defense",
+      "title": "Defence",
+      "text": "Allison has a proven history of designing propulsion solutions for tracked and wheeled defense vehicles that are built to withstand tough conditions.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "key": "fire",
+      "title": "Fire + Emergency",
+      "text": "Allison fully automatic transmissions provide superior acceleration and vehicle maneuverability, improving firetruck and ambulance response times.",
+      "image": "/media/catalog/products/Fire-Truck-Ambulance.webp"
+    },
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "oilgas",
+      "title": "Oil + Gas",
+      "text": "Allison transmissions improve the productivity of drilling, fracturing, hoisting and pumping operations in oil and gas fields throughout the world.",
+      "image": "/media/catalog/products/Oil-Gas-Worksite.webp"
+    },
+    {
+      "key": "refuse",
+      "title": "Refuse + Utilities",
+      "text": "Allison transmissions are designed to make refuse and utility vehicles more productive while reducing emissions and noise levels in local communities.",
+      "image": "/media/catalog/products/Black-Refuse-Truck.webp"
+    },
+    {
+      "key": "rv",
+      "title": "RV + Motorhome",
+      "text": "Allison transmissions deliver an easy and smooth driving experience so drivers can relax and enjoy the journey of traveling in a premium RV or motorhome.",
+      "image": "/media/catalog/products/RV-thumbnail.webp"
+    },
+    {
+      "key": "transit",
+      "title": "Transit + Coach Buses",
+      "text": "Allison’s fully automatic transmissions and electric hybrid propulsion systems improve productivity and fuel economy of transit, coach and school buses.",
+      "image": "/media/catalog/products/IndyGo-Bus-eGen-Flex-Parked.webp"
+    }
+  ],
+  "6000-series": [
+    {
+      "key": "construction",
+      "title": "Construction",
+      "text": "Allison fully automatic transmissions are built to improve productivity on the construction site so you can get the job done more efficiently.",
+      "image": "/media/catalog/products/Cement-Mixer-Construction-Truck.webp"
+    },
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "oilgas",
+      "title": "Oil + Gas",
+      "text": "Allison transmissions improve the productivity of drilling, fracturing, hoisting and pumping operations in oil and gas fields throughout the world.",
+      "image": "/media/catalog/products/Oil-Gas-Worksite.webp"
+    }
+  ],
+  "8000-series": [
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "oilgas",
+      "title": "Oil + Gas",
+      "text": "Allison transmissions improve the productivity of drilling, fracturing, hoisting and pumping operations in oil and gas fields throughout the world.",
+      "image": "/media/catalog/products/Oil-Gas-Worksite.webp"
+    }
+  ],
+  "9-speed": [
+    {
+      "key": "construction",
+      "title": "Construction",
+      "text": "Allison fully automatic transmissions are built to improve productivity on the construction site so you can get the job done more efficiently.",
+      "image": "/media/catalog/products/Cement-Mixer-Construction-Truck.webp"
+    },
+    {
+      "key": "defense",
+      "title": "Defence",
+      "text": "Allison has a proven history of designing propulsion solutions for tracked and wheeled defense vehicles that are built to withstand tough conditions.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "delivery",
+      "title": "Pickup + Delivery",
+      "text": "Allison propulsion solutions provide an ideal combination of performance and fuel economy for your fleet’s pickup and delivery routes.",
+      "image": "/media/catalog/products/Florida-Distribution-Truck-Photo.webp"
+    },
+    {
+      "key": "rv",
+      "title": "RV + Motorhome",
+      "text": "Allison transmissions deliver an easy and smooth driving experience so drivers can relax and enjoy the journey of traveling in a premium RV or motorhome.",
+      "image": "/media/catalog/products/RV-thumbnail.webp"
+    },
+    {
+      "key": "transit",
+      "title": "Transit + Coach Buses",
+      "text": "Allison’s fully automatic transmissions and electric hybrid propulsion systems improve productivity and fuel economy of transit, coach and school buses.",
+      "image": "/media/catalog/products/IndyGo-Bus-eGen-Flex-Parked.webp"
+    }
+  ],
+  "9000-series": [
+    {
+      "key": "mining",
+      "title": "Mining + Specialty",
+      "text": "Allison transmissions perform in demanding environments and improve vehicle operation in tough terrain including gravel roads, mud and steep grades.",
+      "image": "/media/catalog/products/Mining-Truck.webp"
+    },
+    {
+      "key": "oilgas",
+      "title": "Oil + Gas",
+      "text": "Allison transmissions improve the productivity of drilling, fracturing, hoisting and pumping operations in oil and gas fields throughout the world.",
+      "image": "/media/catalog/products/Oil-Gas-Worksite.webp"
+    }
+  ],
+  "fractran": [
+    {
+      "key": "oilgas",
+      "title": "Oil + Gas",
+      "text": "Allison transmissions improve the productivity of drilling, fracturing, hoisting and pumping operations in oil and gas fields throughout the world.",
+      "image": "/media/catalog/products/Oil-Gas-Worksite.webp"
+    }
+  ]
+}

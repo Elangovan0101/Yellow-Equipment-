@@ -1,0 +1,588 @@
+{
+  "allisonFamilies": {
+    "1000-2000-series": {
+      "hero": "/media/catalog/products/1000-banner.webp",
+      "gallery": [
+        "/media/catalog/products/allison-transmission.webp",
+        "/media/catalog/products/6th-Generation-Controls.webp",
+        "/media/catalog/products/Fueling.webp",
+        "/media/catalog/products/Torque-Converter-render.png",
+        "/media/catalog/products/transmission-graphic.webp",
+        "/media/catalog/products/maxresdefault_13_11zon.webp",
+        "/media/catalog/products/CAIMANSP2020-1.webp",
+        "/media/catalog/products/Cement-Mixer-Construction-Truck.webp",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/Fire-Truck-Ambulance.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Florida-Distribution-Truck-Photo.webp"
+      ],
+      "source": "allison-1000-series"
+    },
+    "3000-series": {
+      "hero": "/media/catalog/products/3000.webp",
+      "gallery": [
+        "/media/catalog/products/3000-Series-Vocation.webp",
+        "/media/catalog/products/6th-Generation-Controls.webp",
+        "/media/catalog/products/Fueling.webp",
+        "/media/catalog/products/Torque-Converter-render.png",
+        "/media/catalog/products/3-maxresdefault.webp",
+        "/media/catalog/products/CAIMANSP2020-1.webp",
+        "/media/catalog/products/Cement-Mixer-Construction-Truck.webp",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/Fire-Truck-Ambulance.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Florida-Distribution-Truck-Photo.webp",
+        "/media/catalog/products/Port-thumbnail.webp"
+      ],
+      "source": "allison-3000-series"
+    },
+    "4000-series": {
+      "hero": "/media/catalog/products/4000.webp",
+      "gallery": [
+        "/media/catalog/products/4000-Series-Vocation.webp",
+        "/media/catalog/products/6th-Generation-Controls.webp",
+        "/media/catalog/products/Fueling.webp",
+        "/media/catalog/products/Torque-Converter-render.png",
+        "/media/catalog/products/4maxresdefault.webp",
+        "/media/catalog/products/4-maxresdefault.webp",
+        "/media/catalog/products/Cement-Mixer-Construction-Truck.webp",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/Fire-Truck-Ambulance.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Oil-Gas-Worksite.webp",
+        "/media/catalog/products/Florida-Distribution-Truck-Photo.webp"
+      ],
+      "source": "allison-4000-series"
+    },
+    "6000-series": {
+      "hero": "/media/catalog/products/6000.webp",
+      "gallery": [
+        "/media/catalog/products/6000-Series-Vocation.webp",
+        "/media/catalog/products/6-maxresdefault.webp",
+        "/media/catalog/products/Cement-Mixer-Construction-Truck.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Oil-Gas-Worksite.webp"
+      ],
+      "source": "allison-6000-series"
+    },
+    "8000-series": {
+      "hero": "/media/catalog/products/8000.webp",
+      "gallery": [
+        "/media/catalog/products/8000-Series-Vocation.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Oil-Gas-Worksite.webp"
+      ],
+      "source": "allison-8000-series"
+    },
+    "9000-series": {
+      "hero": "/media/catalog/products/9000.webp",
+      "gallery": [
+        "/media/catalog/products/8000-Series-Vocation.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Oil-Gas-Worksite.webp",
+        "/media/catalog/products/9-maxresdefault.webp"
+      ],
+      "source": "allison-9000-series"
+    },
+    "9-speed": {
+      "hero": "/media/catalog/products/9-speed.webp",
+      "gallery": [
+        "/media/catalog/products/9-Speed-Product-Lockup.webp",
+        "/media/catalog/products/6th-Generation-Controls.webp",
+        "/media/catalog/products/Fueling.webp",
+        "/media/catalog/products/Torque-Converter-render.png",
+        "/media/catalog/products/9maxresdefault.webp",
+        "/media/catalog/products/Cement-Mixer-Construction-Truck.webp",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/Mining-Truck.webp",
+        "/media/catalog/products/Florida-Distribution-Truck-Photo.webp",
+        "/media/catalog/products/RV-thumbnail.webp",
+        "/media/catalog/products/IndyGo-Bus-eGen-Flex-Parked.webp"
+      ],
+      "source": "allison-9-speed"
+    },
+    "fractran": {
+      "hero": "/media/catalog/products/frac.webp",
+      "gallery": [
+        "/media/catalog/products/FracTran-003_edit-jpg_11zon.webp",
+        "/media/catalog/products/FracTran-01_11zon.webp",
+        "/media/catalog/products/maxresdefault_11zon.webp",
+        "/media/catalog/products/FracTran-001-jpg_11zon.webp"
+      ],
+      "source": "allison-FracTran"
+    },
+    "x-models": {
+      "hero": "/media/catalog/products/X200.webp",
+      "gallery": [
+        "/media/catalog/products/FNSS-ACV-15-with-Allison-X200-4C_11zon.webp",
+        "/media/catalog/products/X1100.webp",
+        "/media/catalog/products/Allison-X1100-in-Action_11zon.webp",
+        "/media/catalog/products/3040-MX.webp",
+        "/media/catalog/products/3040MX-CV90-Ghosted.webp",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/6th-Generation-Controls.webp"
+      ],
+      "source": "allison-x-model"
+    },
+    "egen-flex": {
+      "hero": "/media/catalog/products/flex.webp",
+      "gallery": [
+        "/media/catalog/products/allison-transmission_egen-flex_11zon_(1).webp",
+        "/media/catalog/products/eGen-Flex-Product-Render-ImageCard_11zon-removebg-preview.png",
+        "/media/catalog/products/eGen-Flex-Rechargeable-Energy-ImageCard_11zon-removebg-preview.png",
+        "/media/catalog/products/eGen-Flex-inverter_11zon-removebg-preview.png",
+        "/media/catalog/products/maxresdefault_(2)_11zon.webp",
+        "/media/catalog/products/reduce_11zon.webp",
+        "/media/catalog/products/571720444_11zon.webp",
+        "/media/catalog/products/maxresdefault_(1)_11zon.webp"
+      ],
+      "source": "allison-eGen-Flex"
+    },
+    "egen-force": {
+      "hero": "/media/catalog/products/force.webp",
+      "gallery": [
+        "/media/catalog/products/allison-transmission_egen-force_11zon.webp",
+        "/media/catalog/products/eGen-Flex-Product-Render-ImageCard_11zon-removebg-preview.png",
+        "/media/catalog/products/eGen-Flex-Rechargeable-Energy-ImageCard_11zon-removebg-preview.png",
+        "/media/catalog/products/eGen-Flex-inverter_11zon-removebg-preview.png",
+        "/media/catalog/products/maxresdefault_(3).jpg",
+        "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp",
+        "/media/catalog/products/3040MX-CV90-Ghosted.webp",
+        "/media/catalog/products/Allison-X1100-in-Action_11zon.webp"
+      ],
+      "source": "allison-eGen-Force"
+    },
+    "egen-power": {
+      "hero": "/media/catalog/products/power-banner_48_11zon.webp",
+      "gallery": [
+        "/media/catalog/products/allison-transmission_egen-power-final_11zon.webp",
+        "/media/catalog/products/Allison-Transmission_eGen-Power-85S_11zon.webp",
+        "/media/catalog/products/100S-Product-Render_11zon.webp",
+        "/media/catalog/products/eGen-Power-100D-Rear-FINAL-png_11zon.webp"
+      ],
+      "source": "allison-eGen-Power"
+    }
+  },
+  "fptCategories": {
+    "lcv-minibuses": {
+      "hero": "/media/catalog/products/lcv.webp",
+      "gallery": [
+        "/media/catalog/products/7_11zon.webp",
+        "/media/catalog/products/1_res_11zon.webp",
+        "/media/catalog/products/F1A_vista_hub_11zon.webp",
+        "/media/catalog/products/F1C_11zon.webp",
+        "/media/catalog/products/F1C-CNG_11zon.webp"
+      ],
+      "source": "fpt-Lcv"
+    },
+    "trucks": {
+      "hero": "/media/catalog/products/truck.webp",
+      "gallery": [
+        "/media/catalog/products/10_117_11zon.webp",
+        "/media/catalog/products/STATICA_TRUCKS_126_11zon.webp",
+        "/media/catalog/products/N67_hythane_124_11zon.webp",
+        "/media/catalog/products/VISTA_2_127_11zon.webp",
+        "/media/catalog/products/VISTA_3_128_11zon.webp",
+        "/media/catalog/products/n67ng4_125_11zon.webp",
+        "/media/catalog/products/C9_H211_118_11zon.webp",
+        "/media/catalog/products/XCURSOR_H2_vista_hub22_131_11zon.webp",
+        "/media/catalog/products/XC_13_Hub_Page_New33_129_11zon.webp",
+        "/media/catalog/products/XCURSOR_13_NG_vista_hub44_130_11zon.webp",
+        "/media/catalog/products/CURSOR_955_121_11zon.webp",
+        "/media/catalog/products/CURSOR_9_CNG66_120_11zon.webp",
+        "/media/catalog/products/CURSOR_1177_122_11zon.webp",
+        "/media/catalog/products/CURSOR_1388_123_11zon.webp",
+        "/media/catalog/products/curso13_NG_300X30099_119_11zon.webp"
+      ],
+      "source": "fpt-truck"
+    },
+    "buses": {
+      "hero": "/media/catalog/products/buses.webp",
+      "gallery": [
+        "/media/catalog/products/5_132.webp",
+        "/media/catalog/products/STATICA_BUS.webp",
+        "/media/catalog/products/bus-7.webp",
+        "/media/catalog/products/bus-8.webp",
+        "/media/catalog/products/bus-9.webp",
+        "/media/catalog/products/bus-10.webp",
+        "/media/catalog/products/bus-1.webp",
+        "/media/catalog/products/bus-2.webp",
+        "/media/catalog/products/bus-3.webp",
+        "/media/catalog/products/bus-4.webp",
+        "/media/catalog/products/bus-5.webp",
+        "/media/catalog/products/bus-6.webp"
+      ],
+      "source": "fpt-buses"
+    },
+    "agriculture": {
+      "hero": "/media/catalog/products/agriculture.webp",
+      "gallery": [
+        "/media/catalog/products/hub_agriculture.webp",
+        "/media/catalog/products/AG_foto_statica_hub_page.webp",
+        "/media/catalog/products/v20-11.webp",
+        "/media/catalog/products/v20-12.webp",
+        "/media/catalog/products/v20-9.webp",
+        "/media/catalog/products/v20-10.webp",
+        "/media/catalog/products/v20-6.webp",
+        "/media/catalog/products/v20-7.webp",
+        "/media/catalog/products/v20-8.webp",
+        "/media/catalog/products/v20-2.webp",
+        "/media/catalog/products/v20-3.webp",
+        "/media/catalog/products/v20-4.webp",
+        "/media/catalog/products/v20-5.webp",
+        "/media/catalog/products/v20-1.webp"
+      ],
+      "source": "fpt-agri"
+    },
+    "construction": {
+      "hero": "/media/catalog/products/construction.webp",
+      "gallery": [
+        "/media/catalog/products/hub_construction-gallery.webp",
+        "/media/catalog/products/hub_construction.webp",
+        "/media/catalog/products/con-11.webp",
+        "/media/catalog/products/con-9.webp",
+        "/media/catalog/products/con-10.webp",
+        "/media/catalog/products/con-6.webp",
+        "/media/catalog/products/con-7.webp",
+        "/media/catalog/products/con-8.webp",
+        "/media/catalog/products/con-2.webp",
+        "/media/catalog/products/con-3.webp",
+        "/media/catalog/products/con-4.webp",
+        "/media/catalog/products/con-5.webp",
+        "/media/catalog/products/con-1.webp"
+      ],
+      "source": "fpt-construct"
+    },
+    "power-units": {
+      "hero": "/media/catalog/products/power.webp",
+      "gallery": [
+        "/media/catalog/products/IPU_bottom.webp",
+        "/media/catalog/products/pow-8.webp",
+        "/media/catalog/products/pow-7.webp",
+        "/media/catalog/products/pow-5.webp",
+        "/media/catalog/products/pow-6.webp",
+        "/media/catalog/products/pow-3.webp",
+        "/media/catalog/products/pow-4.webp",
+        "/media/catalog/products/pow-1.webp",
+        "/media/catalog/products/pow-2.webp"
+      ],
+      "source": "fpt-power"
+    },
+    "marine-commercial": {
+      "hero": "/media/catalog/products/commercial.webp",
+      "gallery": [
+        "/media/catalog/products/4_180.webp",
+        "/media/catalog/products/Statica_188.webp",
+        "/media/catalog/products/comm-7.webp",
+        "/media/catalog/products/comm-3.webp",
+        "/media/catalog/products/comm-4.webp",
+        "/media/catalog/products/comm-5.webp",
+        "/media/catalog/products/comm-6.webp",
+        "/media/catalog/products/comm-1.webp",
+        "/media/catalog/products/comm-2.webp"
+      ],
+      "source": "fpt-commercial"
+    },
+    "marine-pleasure": {
+      "hero": "/media/catalog/products/pleasure.webp",
+      "gallery": [
+        "/media/catalog/products/02_new.webp",
+        "/media/catalog/products/foto_statica_pleasure.webp",
+        "/media/catalog/products/ple-7.webp",
+        "/media/catalog/products/ple-3.webp",
+        "/media/catalog/products/ple-4.webp",
+        "/media/catalog/products/ple-5.webp",
+        "/media/catalog/products/ple-6.webp",
+        "/media/catalog/products/ple-1.webp",
+        "/media/catalog/products/ple-2.webp"
+      ],
+      "source": "fpt-pleasure"
+    },
+    "g-drive-marine": {
+      "hero": "/media/catalog/products/drive.webp",
+      "gallery": [
+        "/media/catalog/products/Foto_STATICA_G-drive.webp",
+        "/media/catalog/products/dri-3.webp",
+        "/media/catalog/products/dri-4.webp",
+        "/media/catalog/products/dri-1.webp",
+        "/media/catalog/products/dri-2.webp"
+      ],
+      "source": "fpt-drive"
+    },
+    "power-generation": {
+      "hero": "/media/catalog/banners/Iveco.webp",
+      "gallery": [],
+      "source": "Fpt-iveco"
+    }
+  },
+  "danaApplications": {
+    "construction": {
+      "hero": "/media/catalog/products/construct.webp",
+      "gallery": [
+        "/media/catalog/products/es10s.webp",
+        "/media/catalog/products/spicer-independent-front-suspension-axle.webp",
+        "/media/catalog/products/301-hydrostatic.webp",
+        "/media/catalog/products/use.webp",
+        "/media/catalog/products/se.webp",
+        "/media/catalog/products/dana-graziano-crown-wheel-and-pinion_11zon.webp",
+        "/media/catalog/products/graziano-synchro-css.webp",
+        "/media/catalog/products/esaw04.webp",
+        "/media/catalog/products/esp502.webp",
+        "/media/catalog/products/esa111.webp",
+        "/media/catalog/products/zero.webp",
+        "/media/catalog/products/ag4.webp",
+        "/media/catalog/products/ag3.webp",
+        "/media/catalog/products/ag1.webp",
+        "/media/catalog/products/spicer-wing-series.webp",
+        "/media/catalog/products/358-hydrostatic-double-speed-_11zon.webp",
+        "/media/catalog/products/ag12.webp",
+        "/media/catalog/products/spray.webp",
+        "/media/catalog/products/ag10.webp",
+        "/media/catalog/products/ag8.webp",
+        "/media/catalog/products/ag7.webp",
+        "/media/catalog/products/ag6.webp",
+        "/media/catalog/products/ag5.webp",
+        "/media/catalog/products/spy-4.webp"
+      ],
+      "source": "dana-construction"
+    },
+    "agriculture": {
+      "hero": "/media/catalog/products/agricult.webp",
+      "gallery": [
+        "/media/catalog/products/spicer-wing-series.webp",
+        "/media/catalog/products/spicer-independent-front-suspension-axle.webp",
+        "/media/catalog/products/770_4_approved-for-internal-use-only_11zon.webp",
+        "/media/catalog/products/spicer-portal-axle.webp",
+        "/media/catalog/products/spicer-standard-suspension-axle.webp",
+        "/media/catalog/products/dana-graziano-crown-wheel-and-pinion_11zon.webp",
+        "/media/catalog/products/graziano-synchro-css.webp",
+        "/media/catalog/products/ag11.webp",
+        "/media/catalog/products/ag12.webp",
+        "/media/catalog/products/spray.webp",
+        "/media/catalog/products/ag10.webp",
+        "/media/catalog/products/ag9.webp",
+        "/media/catalog/products/ag8.webp",
+        "/media/catalog/products/ag7.webp",
+        "/media/catalog/products/ag6.webp",
+        "/media/catalog/products/ag5.webp",
+        "/media/catalog/products/spy-4.webp",
+        "/media/catalog/products/ag4.webp",
+        "/media/catalog/products/ag3.webp",
+        "/media/catalog/products/ag2.webp",
+        "/media/catalog/products/ag1.webp",
+        "/media/catalog/products/spy-6.webp",
+        "/media/catalog/products/spray-1.webp",
+        "/media/catalog/products/spray-2.webp"
+      ],
+      "source": "dana-Agriculture"
+    },
+    "material-handling": {
+      "hero": "/media/catalog/products/material.webp",
+      "gallery": [
+        "/media/catalog/products/spicer-wing-series.webp",
+        "/media/catalog/products/use.webp",
+        "/media/catalog/products/ag11.webp",
+        "/media/catalog/products/ag12.webp",
+        "/media/catalog/products/dana-graziano-crown-wheel-and-pinion_11zon.webp",
+        "/media/catalog/products/graziano-synchro-css.webp",
+        "/media/catalog/products/es20d.webp",
+        "/media/catalog/products/esh741_11zon.webp",
+        "/media/catalog/products/esp502.webp",
+        "/media/catalog/products/zero.webp",
+        "/media/catalog/products/ag8.webp",
+        "/media/catalog/products/ag7.webp",
+        "/media/catalog/products/ag6.webp",
+        "/media/catalog/products/mdu_02.webp",
+        "/media/catalog/products/ag5.webp",
+        "/media/catalog/products/ag4.webp",
+        "/media/catalog/products/ag3.webp",
+        "/media/catalog/products/spray.webp",
+        "/media/catalog/products/ag2.webp",
+        "/media/catalog/products/spicertorque-hub.webp",
+        "/media/catalog/products/spicer-torque.webp",
+        "/media/catalog/products/hoisting_winch.webp",
+        "/media/catalog/products/se.webp"
+      ],
+      "source": "dana-material"
+    },
+    "mining": {
+      "hero": "/media/catalog/products/mining.webp",
+      "gallery": [
+        "/media/catalog/products/spicer--torque-hub.webp",
+        "/media/catalog/products/spicer-torque.webp",
+        "/media/catalog/products/use.webp",
+        "/media/catalog/products/se.webp",
+        "/media/catalog/products/dana-graziano-crown-wheel-and-pinion_11zon.webp",
+        "/media/catalog/products/graziano-synchro-css.webp",
+        "/media/catalog/products/hoisting_winch.webp",
+        "/media/catalog/products/spicer-wing-series.webp",
+        "/media/catalog/products/ag12.webp",
+        "/media/catalog/products/es20d.webp",
+        "/media/catalog/products/esh741_11zon.webp",
+        "/media/catalog/products/esp502.webp",
+        "/media/catalog/products/zero.webp",
+        "/media/catalog/products/ag8.webp",
+        "/media/catalog/products/ag7.webp",
+        "/media/catalog/products/ag6.webp",
+        "/media/catalog/products/ag5.webp",
+        "/media/catalog/products/spicertorque-hub.webp"
+      ],
+      "source": "dana-mining"
+    },
+    "forestry": {
+      "hero": "/media/catalog/products/forestry.webp",
+      "gallery": [
+        "/media/catalog/products/spicer-wing-series.webp",
+        "/media/catalog/products/spicer-torque.webp",
+        "/media/catalog/products/spray.webp",
+        "/media/catalog/products/ag11.webp",
+        "/media/catalog/products/dana-graziano-crown-wheel-and-pinion_11zon.webp",
+        "/media/catalog/products/graziano-synchro-css.webp"
+      ],
+      "source": "dana-forest"
+    },
+    "specialty-electric": {
+      "hero": "/media/catalog/products/electric.webp",
+      "gallery": [
+        "/media/catalog/products/spicerelectrified-eg1300i_11zon.webp",
+        "/media/catalog/products/spicerelectrified-transaxle_11zon.webp",
+        "/media/catalog/products/ag8.webp",
+        "/media/catalog/products/m560_11zon.webp",
+        "/media/catalog/products/controllers_m580_11zon.webp",
+        "/media/catalog/products/ag7.webp",
+        "/media/catalog/products/ag6.webp",
+        "/media/catalog/products/ag5.webp"
+      ],
+      "source": "dana-electric"
+    }
+  },
+  "parts": {
+    "banner": "/media/catalog/banners/parts-up.webp",
+    "otherBanner": "/media/catalog/banners/other.webp",
+    "companyBanner": "/media/catalog/banners/comapany-up.webp",
+    "contactBanner": "/media/catalog/banners/contact.webp",
+    "mission": "/media/catalog/mission.webp",
+    "eq": {
+      "eq1": "/media/catalog/eq_n1.webp",
+      "eq2": "/media/catalog/eq_n2.webp",
+      "eq3": "/media/catalog/eq_n3.webp",
+      "eq4": "/media/catalog/eq_n4.webp",
+      "eq5": "/media/catalog/eq_n5.webp",
+      "eq6": "/media/catalog/eq_n6.webp"
+    }
+  },
+  "support": {
+    "allisonGenuine": {
+      "hero": "/media/catalog/services/parts.webp",
+      "gallery": [
+        "/media/catalog/services/parts.webp",
+        "/media/catalog/services/Allison.webp"
+      ]
+    },
+    "allisonReman": {
+      "hero": "/media/catalog/services/reman.webp",
+      "gallery": [
+        "/media/catalog/services/reman.webp",
+        "/media/catalog/services/ReTran-Stock-photo.webp",
+        "/media/catalog/services/Social.webp",
+        "/media/catalog/services/max.webp"
+      ]
+    },
+    "allisonFluids": {
+      "hero": "/media/catalog/services/approved.webp",
+      "gallery": [
+        "/media/catalog/services/approved.webp",
+        "/media/catalog/services/ser-alli.webp"
+      ]
+    },
+    "allisonCoverage": {
+      "hero": "/media/catalog/services/coverage.webp",
+      "gallery": [
+        "/media/catalog/services/coverage.webp",
+        "/media/catalog/services/maxresdefault.webp"
+      ]
+    },
+    "fptGenuine": {
+      "hero": "/media/catalog/services/fpt-parts.webp",
+      "gallery": [
+        "/media/catalog/services/fpt-parts.webp"
+      ]
+    },
+    "fptFluids": {
+      "hero": "/media/catalog/services/fpt-oil.webp",
+      "gallery": [
+        "/media/catalog/services/fpt-oil.webp"
+      ]
+    },
+    "fptReman": {
+      "hero": "/media/catalog/services/fpt-reman.webp",
+      "gallery": [
+        "/media/catalog/services/fpt-reman.webp",
+        "/media/catalog/services/img-flusso-def.webp",
+        "/media/catalog/services/reman_ENG.webp"
+      ]
+    },
+    "fptApp": {
+      "hero": "/media/catalog/services/fpt-app.webp",
+      "gallery": [
+        "/media/catalog/services/fpt-app.webp",
+        "/media/catalog/services/MyFPT_light.webp",
+        "/media/catalog/services/Dongle-img.webp"
+      ]
+    },
+    "fptRemote": {
+      "hero": "/media/catalog/services/remote.webp",
+      "gallery": [
+        "/media/catalog/services/remote.webp",
+        "/media/catalog/services/PaginaRAS.webp"
+      ]
+    },
+    "fptProactive": {
+      "hero": "/media/catalog/services/fpt-pro.webp",
+      "gallery": [
+        "/media/catalog/services/fpt-pro.webp"
+      ]
+    },
+    "fptMaster": {
+      "hero": "/media/catalog/services/master.webp",
+      "gallery": [
+        "/media/catalog/services/master.webp"
+      ]
+    }
+  },
+  "brand": {
+    "allison": "/media/catalog/products/allison-transmission.webp",
+    "dana": "/media/catalog/products/construct.webp",
+    "fpt": "/media/catalog/products/commercial.webp"
+  },
+  "sales": {
+    "engine": [
+      "/media/catalog/engine-sales/en_img1.webp",
+      "/media/catalog/engine-sales/en_img2.webp",
+      "/media/catalog/engine-sales/en_img3.webp",
+      "/media/catalog/engine-sales/en_img4.webp"
+    ],
+    "parts": [
+      "/media/catalog/parts-sales/pA_iM1.webp",
+      "/media/catalog/parts-sales/pA_iM2.webp",
+      "/media/catalog/parts-sales/pA_iM3.webp",
+      "/media/catalog/parts-sales/pA_iM4.webp",
+      "/media/catalog/parts-sales/pA_iM5.webp",
+      "/media/catalog/parts-sales/pA_iM6.webp",
+      "/media/catalog/parts-sales/pA_iM7.webp",
+      "/media/catalog/parts-sales/pA_iM8.webp",
+      "/media/catalog/parts-sales/pA_iM9.webp",
+      "/media/catalog/parts-sales/pA_iM10.webp",
+      "/media/catalog/parts-sales/pA_iM11.webp",
+      "/media/catalog/parts-sales/pA_iM12.webp",
+      "/media/catalog/parts-sales/pA_iM13.webp"
+    ],
+    "transmission": [
+      "/media/catalog/transmission-sales/tr_im1.webp",
+      "/media/catalog/transmission-sales/tr_im2.webp",
+      "/media/catalog/transmission-sales/tr_im3.webp",
+      "/media/catalog/transmission-sales/tr_im4.webp",
+      "/media/catalog/transmission-sales/tr_im5.webp"
+    ]
+  }
+}

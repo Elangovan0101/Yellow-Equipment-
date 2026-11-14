@@ -1,0 +1,96 @@
+{
+  "egen-flex": [
+    {
+      "title": "Drive Unit",
+      "text": "Featuring a multispeed gearbox with fully integrated electric motors built in, the drive unit provides propulsion while the engine is at zero speed, enabling full engine-off propulsion capability.",
+      "image": "/media/catalog/products/eGen-Flex-Product-Render-ImageCard_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Rechargeable Energy Storage System",
+      "text": "eGen Flex uses lithium-titanate (LTO) battery chemistry to support EV operation. The electric battery is recharged through a regenerative braking system, enabling storage of energy caused by the friction from braking that would normally be released as heat.",
+      "image": "/media/catalog/products/eGen-Flex-Rechargeable-Energy-ImageCard_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Inverter",
+      "text": "Designed to improve vehicle efficiency and save space, Allison reduced the inverter to be one-third the weight and half the footprint of earlier generation electric hybrid systems.",
+      "image": "/media/catalog/products/eGen-Flex-inverter_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Improved Fuel Economy",
+      "text": "Reduced Dependence on Fossil Fuels: Fleets that operate eGen Flex® can expect improved fuel economy of up to 25% compared to conventional diesel buses. The system’s electric battery is recharged through a regenerative braking system, eliminating the need for charging infrastructure. It also allows the vehicle to operate accessories, such as air conditioning and heat, at optimal efficiency with clean and quiet electric power.",
+      "image": "/media/catalog/products/reduce_11zon.webp"
+    },
+    {
+      "title": "Reduced Maintenance",
+      "text": "Increased Vehicle Uptime: eGen Flex® eliminates inefficient belt-driven accessories and decreases the load on the engine. The regenerative braking system reduces brake wear and increases power to the wheels. In addition, the inverter utilizes WEG cooling, eliminating oil coolant lines from the drive unit. These factors all contribute to reduced costs for vehicle integration and maintenance.",
+      "image": "/media/catalog/products/571720444_11zon.webp"
+    },
+    {
+      "title": "Improved Sustainability",
+      "text": "Protecting the Environment The system’s electric-only mode enables buses to operate in full EV mode using geofencing technology. This helps fleets reduce their carbon footprint and noise pollution, particularly in pedestrian-dense EV zones.",
+      "image": "/media/catalog/products/maxresdefault (1)_11zon.webp"
+    }
+  ],
+  "egen-force": [
+    {
+      "title": "Drive Unit",
+      "text": "Featuring a multispeed gearbox with fully integrated electric motors built in, the drive unit provides propulsion while the engine is at zero speed, enabling full engine-off propulsion capability.",
+      "image": "/media/catalog/products/eGen-Flex-Product-Render-ImageCard_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Rechargeable Energy Storage System",
+      "text": "eGen Flex uses lithium-titanate (LTO) battery chemistry to support EV operation. The electric battery is recharged through a regenerative braking system, enabling storage of energy caused by the friction from braking that would normally be released as heat.",
+      "image": "/media/catalog/products/eGen-Flex-Rechargeable-Energy-ImageCard_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Inverter",
+      "text": "Designed to improve vehicle efficiency and save space, Allison reduced the inverter to be one-third the weight and half the footprint of earlier generation electric hybrid systems.",
+      "image": "/media/catalog/products/eGen-Flex-inverter_11zon-removebg-preview.png"
+    },
+    {
+      "title": "Enhanced Performance",
+      "text": "eGen Force™ ensures optimal acceleration using our torque fill and boost capability. The system also improves vehicle maneuverability due to superior gradeability and startability.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "title": "Reduced Operating Costs",
+      "text": "The electric hybrid design improves fuel economy and enables the electrification of high power on board systems. Through unmatched reliability and exceptional driveline protection, the eGen Force™ increases vehicle uptime.",
+      "image": "/media/catalog/products/3040MX-CV90-Ghosted.webp"
+    },
+    {
+      "title": "U.S. Army's Optionally Manned Fighting Vehicle Competition",
+      "text": "Allison has partnered with American Rheinmetall Vehicles to integrate the eGen Force™ into their prototype for the U.S. Army’s XM30 Combat Vehicle.",
+      "image": "/media/catalog/products/Allison-X1100-in-Action_11zon.webp"
+    }
+  ],
+  "egen-power": [
+    {
+      "title": "eGen Power 85S",
+      "text": "An Electric Propulsion Solution for Midi-Buses: eGen Power® 85S is designed for midi buses and small trucks, offering an 8.5T GAWR with a narrower track, smaller wheel options, and a compact stamped axle housing.",
+      "image": "/media/catalog/products/Allison-Transmission_eGen-Power-85S_11zon.webp"
+    },
+    {
+      "title": "eGen Power 100S / 130S",
+      "text": "Electric Power for Medium- and Heavy-Duty Trucks: eGen Power® 100S is a single-motor e-Axle for heavy-duty trucks and buses, delivering up to 325 kW power, 26,000 Nm wheel torque, and a 10.4-ton GAWR with a two-speed design and full regenerative braking.",
+      "image": "/media/catalog/products/100S-Product-Render_11zon.webp"
+    },
+    {
+      "title": "eGen Power 100D / 130D",
+      "text": "Built for Heavy-Duty Trucks: The first variant introduced to Allison’s family of fully electric axles, eGen Power® 100D is one of the most powerful fully integrated e-Axle systems in the world. It was specifically developed for heavy-duty trucks, such as 4x2 and 6x2 tractors.",
+      "image": "/media/catalog/products/eGen-Power-100D-Rear-FINAL-png_11zon.webp"
+    }
+  ],
+  "fractran": [],
+  "x-models": [
+    {
+      "title": "Versatility",
+      "text": "The 3040 MX™ is adaptable for multiple engine configurations for various applications, increased uptime via unmatched reliability and exceptional driveline protection, in addition to improved acceleration and fuel economy due to Allison Continuous Power Technology™.",
+      "image": "/media/catalog/products/EMEA_Defense_BMC-Altug-8x8_IDEX.webp"
+    },
+    {
+      "title": "Modernization",
+      "text": "Our 6th Generation Controls offer enhanced cyber security and serve as the best platform for future supportability and developments such as drive-by-wire.",
+      "image": "/media/catalog/products/6th-Generation-Controls.webp"
+    }
+  ]
+}
