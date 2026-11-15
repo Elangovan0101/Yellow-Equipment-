@@ -92,7 +92,7 @@ export function PageHero({ crumbs, kicker, n, title, intro, image, imageAlt, con
           </div>
           <Reveal delay={0.08}>
             <figure className="relative aspect-[5/4] bg-white">
-              <img src={image} alt={imageAlt} className="h-full w-full object-contain p-8" />
+              <img decoding="async" fetchPriority="high" src={image} alt={imageAlt} className="h-full w-full object-contain p-8" />
               <span className="absolute bottom-3 left-4 text-[10px] tracking-[0.18em] text-ink/45 uppercase">{imageAlt}</span>
             </figure>
           </Reveal>
@@ -254,7 +254,7 @@ export function LinkCard({ to, n, title, text, image, imageAlt, contain = false,
     <Link to={to} className="group flex h-full flex-col">
       {image ? (
         <span className={`relative block aspect-[4/3] overflow-hidden ${contain ? 'bg-white' : 'bg-ink-2'}`}>
-          <img
+          <img decoding="async"
             src={image}
             alt={imageAlt ?? ''}
             className={`h-full w-full transition-transform duration-700 group-hover:scale-[1.04] ${contain ? 'object-contain p-6' : 'object-cover'}`}
@@ -295,7 +295,7 @@ export function FeatureList({ items, tone = 'dark', columns = 3 }) {
           <p className={`mt-3 text-sm leading-6 ${light ? 'text-ink/70' : 'text-mist'}`}>{item.text}</p>
         </div>
         <div className={`overflow-hidden ${light ? 'border border-ink/15 bg-white' : 'bg-ink-2'}`}>
-          <img
+          <img decoding="async"
             src={item.image}
             alt={item.imageAlt ?? item.title}
             className="h-full min-h-[240px] w-full object-cover md:min-h-[320px]"
@@ -388,7 +388,7 @@ export function ImageGallery({ images = [], alt = 'Product photo', columns = 3, 
     <ul className={`grid gap-3 ${cols}`}>
       {items.map((item) => (
         <li key={`${item.src}-${item.label ?? ''}`} className={`overflow-hidden ${contain ? 'bg-white' : 'bg-ink-2'}`}>
-          <img
+          <img decoding="async"
             src={item.src}
             alt={item.alt}
             className={`aspect-[4/3] h-full w-full ${contain ? 'object-contain' : 'object-cover'}`}

@@ -17,7 +17,7 @@ function CardMedia({ item }) {
     return (
       <div className="relative aspect-[4/3]" style={productGrid}>
         {!failed ? (
-          <img
+          <img loading="lazy" decoding="async"
             src={item.image}
             alt={item.imageAlt}
             className="h-full w-full object-contain p-6"
@@ -33,7 +33,7 @@ function CardMedia({ item }) {
   return (
     <div className={`relative aspect-[4/3] overflow-hidden ${item.frame === 'light' ? 'bg-white' : 'bg-[#0b0c0e]'}`}>
       {!failed ? (
-        <img
+        <img decoding="async"
           src={item.image}
           alt={item.imageAlt}
           className={`h-full w-full ${contained ? 'object-contain' : 'object-cover'}`}

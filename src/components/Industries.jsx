@@ -18,7 +18,7 @@ export default function Industries() {
           {industries.map((item) => (
             <article key={item.n} className="relative min-h-[320px] overflow-hidden border border-line bg-ink-2">
               {item.image ? (
-                <img
+                <img decoding="async"
                   src={item.image}
                   alt={item.imageAlt}
                   className="absolute inset-0 h-full w-full object-cover object-center"
@@ -42,7 +42,7 @@ export default function Industries() {
           ))}
 
           <article className="relative min-h-[320px] overflow-hidden bg-yellow text-ink md:col-span-2 xl:col-span-2">
-            <img
+            <img decoding="async"
               src="/media/industries/cta-technician.webp"
               alt="Yellow Equipment technician servicing machinery"
               className="absolute inset-y-0 right-0 hidden h-full w-[48%] object-cover object-center md:block"

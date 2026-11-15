@@ -140,7 +140,7 @@ export default function Capabilities() {
                           <Arrow className="h-3 w-3 transition-transform group-hover:translate-x-1" />
                         </Link>
                       ) : null}
-                      <img
+                      <img decoding="async"
                         src={item.image}
                         alt={item.imageAlt}
                         className="mb-4 aspect-[4/3] w-full object-cover object-center lg:hidden"

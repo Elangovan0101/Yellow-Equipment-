@@ -1,6 +1,30 @@
+import { useEffect, useRef } from 'react'
 import { company, offerings } from '../data/content'
 import Reveal from './Reveal'
 import { TextLink } from './site/ui'
+
+function LazyVideo(props) {
+  const ref = useRef(null)
+  useEffect(() => {
+    const video = ref.current
+    if (!video) return undefined
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          if (!video.src) video.src = video.dataset.src
+          const play = video.play()
+          if (play) play.catch(() => {})
+        } else {
+          video.pause()
+        }
+      },
+      { rootMargin: '200px' },
+    )
+    observer.observe(video)
+    return () => observer.disconnect()
+  }, [])
+  return <video ref={ref} preload="none" {...props} />
+}
 
 export default function About() {
   return (
@@ -34,14 +58,13 @@ export default function About() {
 
         <Reveal delay={0.08}>
           <figure className="relative min-h-[520px] overflow-hidden">
-            <video
+            <LazyVideo
               className="absolute inset-0 h-full w-full object-cover"
-              src="/media/about.mp4"
-              poster="/media/workshop-truck.png"
+              data-src="/media/about.mp4"
+              poster="/media/about-poster.webp"
               muted
               playsInline
               loop
-              autoPlay
               aria-label="Yellow Equipment workshop and field operations"
             />
             <figcaption className="absolute right-0 bottom-0 left-0 bg-gradient-to-t from-ink via-ink/70 to-transparent p-6">
