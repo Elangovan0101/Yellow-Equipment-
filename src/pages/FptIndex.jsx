@@ -11,6 +11,7 @@ const aftermarket = [
     text: '15 genuine part types, engineered to original specification, with 12 months warranty.',
     image: supportImages('fptGenuine')?.hero,
     imageAlt: 'FPT Industrial genuine parts',
+    contain: true,
   },
   {
     to: '/parts/oils-coolants#fpt',
@@ -19,6 +20,7 @@ const aftermarket = [
     text: 'Genuine fluids validated for change intervals extended by up to 50%.',
     image: supportImages('fptFluids')?.hero,
     imageAlt: 'FPT Industrial oils and coolants',
+    contain: true,
   },
   {
     to: '/parts/remanufactured#fpt',
@@ -27,6 +29,7 @@ const aftermarket = [
     text: 'Remanufactured engines and components with a best-in-class 2-year warranty.',
     image: supportImages('fptReman')?.hero,
     imageAlt: 'FPT Industrial Original Reman',
+    contain: true,
   },
 ]
 

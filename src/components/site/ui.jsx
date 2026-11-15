@@ -253,11 +253,11 @@ export function LinkCard({ to, n, title, text, image, imageAlt, contain = false,
   return (
     <Link to={to} className="group flex h-full flex-col">
       {image ? (
-        <span className={`relative block aspect-[4/3] overflow-hidden ${contain ? 'bg-white' : 'bg-ink-2'}`}>
+        <span className={`relative block overflow-hidden ${contain ? 'aspect-[16/10] bg-white' : 'aspect-[4/3] bg-ink-2'}`}>
           <img
             src={image}
             alt={imageAlt ?? ''}
-            className={`h-full w-full transition-transform duration-700 group-hover:scale-[1.04] ${contain ? 'object-contain p-6' : 'object-cover'}`}
+            className={`h-full w-full transition-transform duration-700 group-hover:scale-[1.04] ${contain ? 'object-contain p-3 sm:p-4' : 'object-cover'}`}
             loading="lazy"
           />
           {n ? (

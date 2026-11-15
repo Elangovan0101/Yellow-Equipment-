@@ -11,6 +11,7 @@ const support = [
     text: 'Built to original factory specifications and backed by an Allison factory warranty.',
     image: supportImages('allisonGenuine')?.hero,
     imageAlt: 'Allison Genuine Parts',
+    contain: true,
   },
   {
     to: '/parts/remanufactured#allison',
@@ -19,6 +20,7 @@ const support = [
     text: 'Remanufactured with Allison Genuine Parts™ and 100% dynamometer tested.',
     image: supportImages('allisonReman')?.hero,
     imageAlt: 'Allison Genuine ReMan',
+    contain: true,
   },
   {
     to: '/parts/oils-coolants#allison',
@@ -27,6 +29,7 @@ const support = [
     text: 'TES 668®, TES 295® and off-highway fluid specifications.',
     image: supportImages('allisonFluids')?.hero,
     imageAlt: 'Allison Approved Fluids',
+    contain: true,
   },
   {
     to: '/parts/transmission-parts#coverage',
@@ -35,6 +38,7 @@ const support = [
     text: 'Coverage beyond the Standard Limited Warranty, with 100% parts and labour.',
     image: supportImages('allisonCoverage')?.hero,
     imageAlt: 'Allison Extended Coverage',
+    contain: true,
   },
 ]
 
