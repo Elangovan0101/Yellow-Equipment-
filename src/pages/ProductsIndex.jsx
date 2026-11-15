@@ -42,7 +42,7 @@ export default function ProductsIndex() {
               <Reveal className="lg:col-span-5">
                 <Link to={brand.to} className="group block">
                   <span className={`relative block aspect-[4/3] overflow-hidden ${brand.contain ? 'bg-white' : 'bg-ink-2'}`}>
-                    <img
+                    <img decoding="async"
                       src={brand.image}
                       alt={brand.imageAlt}
                       loading="lazy"

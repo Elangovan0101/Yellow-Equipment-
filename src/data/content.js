@@ -29,14 +29,14 @@ export const heroSlides = [
     index: '01',
     label: 'Port & material handling',
     video: '/media/hero.mp4',
-    poster: '/media/haul-truck.png',
+    poster: '/media/hero-poster.webp',
   },
   {
     id: 'workshop',
     index: '02',
     label: 'Workshop servicing',
     video: '/media/field.mp4',
-    poster: '/media/workshop-truck.png',
+    poster: '/media/field-poster.webp',
   },
 ]
 
@@ -162,7 +162,7 @@ export const equipment = [
     title: 'Dana Spicer Transmissions, Drive Shafts & Axles',
     to: '/products/dana',
     text: 'Genuine Spicer driveline components, backed by our Certified Service Centre status for the Middle East.',
-    image: '/media/drivetrain-components.png',
+    image: '/media/drivetrain-components.webp',
     imageAlt: 'Dana Spicer transmission, driveshaft and axle',
     fit: 'contain',
   },
@@ -389,22 +389,22 @@ export const principles = [
 
 export const gallery = [
   {
-    src: '/media/transmission-bay.png',
+    src: '/media/transmission-bay.webp',
     alt: 'Technician rebuilding a transmission beside a heavy truck',
     caption: 'Workshop servicing',
   },
   {
-    src: '/media/workshop-truck.png',
+    src: '/media/workshop-truck.webp',
     alt: 'Heavy truck raised on workshop stands',
     caption: 'Heavy truck on stands for inspection',
   },
   {
-    src: '/media/haul-truck.png',
+    src: '/media/haul-truck.webp',
     alt: 'Haul truck on a dusty site road',
     caption: 'Haul trucks on a site road',
   },
   {
-    src: '/media/quarry.png',
+    src: '/media/quarry.webp',
     alt: 'Excavator at work in an open-pit mine',
     caption: 'Excavator in an open-pit mine',
   },
@@ -413,14 +413,14 @@ export const gallery = [
     alt: 'Heavy equipment operating on site',
     caption: 'Site operations',
     video: true,
-    poster: '/media/haul-truck.png',
+    poster: '/media/hero-poster.webp',
   },
   {
     src: '/media/field.mp4',
     alt: 'Field service footage',
     caption: 'Field service',
     video: true,
-    poster: '/media/workshop-truck.png',
+    poster: '/media/field-poster.webp',
   },
 ]
 

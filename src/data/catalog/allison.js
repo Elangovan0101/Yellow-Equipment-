@@ -113,7 +113,7 @@ export const allisonTechFeatures = [
   {
     "title": "Fully Automatic Architecture",
     "text": "Allison transmissions are equipped with a torque converter instead of a dry clutch, reducing downtime and eliminating manual shifting.",
-    "image": "/media/catalog/products/Torque-Converter-render.png"
+    "image": "/media/catalog/products/Torque-Converter-render.webp"
   }
 ]
 

@@ -221,7 +221,7 @@ function ListPanel({ title, to, all, items, image }) {
   return (
     <div className="grid grid-cols-[1fr_2fr] gap-10">
       <Link to={to} className="group relative block min-h-[260px] overflow-hidden">
-        <img src={image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-70 transition-transform duration-700 group-hover:scale-105" />
+        <img loading="lazy" decoding="async" src={image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-70 transition-transform duration-700 group-hover:scale-105" />
         <span className="absolute inset-0 bg-gradient-to-t from-ink via-ink/40 to-transparent" />
         <span className="absolute bottom-6 left-6">
           <span className="block font-display text-5xl leading-none uppercase">{title}</span>

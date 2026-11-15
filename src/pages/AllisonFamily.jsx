@@ -81,7 +81,7 @@ function FeatureMedia({ feature }) {
   if (feature.image) {
     return (
       <div className="relative overflow-hidden bg-ink">
-        <img
+        <img decoding="async"
           src={feature.image}
           alt={feature.imageAlt ?? feature.title}
           className="aspect-video h-full w-full object-cover"
@@ -153,7 +153,7 @@ export default function AllisonFamily() {
         {family.overviewImage ? (
           <div className="grid gap-px bg-line lg:grid-cols-2">
             <Reveal className="overflow-hidden bg-ink">
-              <img
+              <img decoding="async"
                 src={family.overviewImage}
                 alt={family.overviewImageAlt ?? family.name}
                 className="aspect-[4/3] h-full w-full object-cover"

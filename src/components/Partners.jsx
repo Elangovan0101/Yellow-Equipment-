@@ -15,7 +15,7 @@ function PartnerLogo({ partner }) {
     return <p className="font-display text-3xl leading-none tracking-wide uppercase">{partner.name}</p>
   }
   return (
-    <img
+    <img loading="lazy" decoding="async"
       src={partner.logo}
       alt=""
       className="max-h-16 w-auto max-w-[240px] object-contain"
